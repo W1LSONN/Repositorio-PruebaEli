@@ -1,5 +1,5 @@
 # Evaluación Práctica de Git y GitHub
-
+listo
 ## Instrucciones Generales
 
 - Cada pregunta debe ser respondida directamente en este archivo **(README.md)** debajo del enunciado correspondiente.
@@ -73,7 +73,7 @@ pregunta resuelta
 - El flujo debe respetar la estructura de Git Flow con las ramas `develop` y `main`.
 
 **📝 Respuesta:**
-
+respuesta correcta lista 
 
 
 ## Pregunta 4 (2 puntos)
