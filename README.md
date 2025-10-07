@@ -73,7 +73,7 @@ pregunta resuelta
 - El flujo debe respetar la estructura de Git Flow con las ramas `develop` y `main`.
 
 **📝 Respuesta:**
-
+respuesta correcta lista 
 
 
 ## Pregunta 4 (2 puntos)
