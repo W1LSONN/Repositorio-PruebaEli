@@ -46,7 +46,7 @@ Esta resuelto
 - Solo el **segundo commit** debe llevar el **tag `"Pregunta 2"`**.
 
 **📝 Respuesta:**
-
+pregunta resuelta
 
 ## Pregunta 3 (2 puntos)
 
